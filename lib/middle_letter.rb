@@ -8,3 +8,5 @@ def get_middle(word)
 end
 
 get_middle("middle")
+
+# test
